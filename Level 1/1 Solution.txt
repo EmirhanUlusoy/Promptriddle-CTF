@@ -1,0 +1,3 @@
+In this section, we looked at the resources and opened the file. 
+On the right side, we saw the password, but the important thing to remember was that numbers should not be used in the password. 
+Therefore, the password should be "hacker".

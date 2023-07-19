@@ -1,0 +1,5 @@
+In this CTF, we saw 'who.png' in the resources and typed it in. An image of a person appeared. 
+We searched for him on Google Images and found out that he is known as the inventor and father of email. 
+We entered 'email' in the password field, and it said 'cyber' which we found from the URL. 
+The page's title was 'Contact Me', so we clicked on it, and an email form opened. 
+We entered our email and username, wrote 'cyber' in the subject, and sent it. When we checked our email, we found out that the password is 'communication'.

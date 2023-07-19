@@ -1,0 +1,5 @@
+This part was a bit puzzling. I looked at the resources and found the file, then downloaded it. 
+The file was encrypted, and after some thinking, I realized that the password was "important." 
+After that, there were numbers in front of us. I thought they might be in hexadecimal format, so I tried converting them, but it didn't work. 
+Then, the idea of coordinates came to my mind, so I tried it, and it gave me a location in France.
+When I entered the password, the results made me happy.

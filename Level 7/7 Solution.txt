@@ -1,0 +1,5 @@
+In this part, there is a file named "dark.png," and we download it. In this image, another picture is hidden. 
+To find it, we flip the image upside down and reduce its brightness. Eventually, a picture of a dog appears. 
+When we input "dog" as the answer, we proceed to the next level.
+
+Please note that this translation is based on the context you provided, and if there are any specific technical terms or phrases in the original text that need accurate translation, please let me know, and I'll be happy to assist further.

@@ -1,0 +1,5 @@
+In this part, we looked at the resources and found a file. 
+We opened the TXT file, and it appeared on the right side with some strange words. 
+After thinking for a while, we realized that the words were written in reverse. 
+We assumed that the password was "dessert" and when we typed it, it said "mirror," indicating that we should reverse it again. 
+When we reversed it, it became "stressed," and we proceeded to the next level.

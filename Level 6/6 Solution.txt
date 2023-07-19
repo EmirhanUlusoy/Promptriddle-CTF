@@ -1,0 +1,7 @@
+In this CTF challenge, when we examine the "coordinates.txt" file, we see some numbers, which turn out to be ASCII values. Then, we open the "coordinates.png" file, which displays an image of the moon, along with the word "ASCII," confirming that we should treat the numbers as ASCII values.
+
+Furthermore, there is an "coordinates.mp3" file that plays an audio saying "Not Earth," indicating that we shouldn't be looking for coordinates on Earth. By converting the ASCII numbers to characters, we obtain a name or keyword.
+
+It turns out that this is a deceptive clue, as searching for the moon's coordinates in Google Images gives us the name of a lunar crater. When we try this lunar crater name as the password, we reach the answer or the flag.
+
+I hope this helps! If you have any other questions or need further assistance, feel free to ask.

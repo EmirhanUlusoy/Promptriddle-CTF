@@ -1,0 +1,6 @@
+In this part, we found a file named "pictures_a.mp3," but since it was a picture file, it should have been in JPG or PNG format. 
+We tried PNG, and it worked. Inside, there were numbers like 1, 2, 3, 4, 5, 6, which seemed to be in a specific order. 
+Without forgetting this order, we also tried opening "pictures_b.png," and it opened as another PNG file.
+
+Here, the Morse code alphabet was used. 
+By comparing the previous image with this image and arranging them in order, it gave us the "gotcha" password, resulting in success.
